@@ -42,16 +42,20 @@ class App extends Component {
 
   render(){
     return(
-      <Container>
-        <Header score={this.state.score} highscore={this.state.highscore}>Clicky Game </Header>
-        {this.state.games.map(game => (
-          <Game 
-          clickCount={this.clickCount}
-          id={game.id}
-          key={game.id}
-          image={game.image}
-          />
-        ))}
+      <Container className="container">
+        <div className="row mb-3">
+          <Header score={this.state.score} highscore={this.state.highscore}>Clicky Game </Header>
+        </div>
+        <div className="row">
+          {this.state.games.map(game => (
+            <Game 
+            clickCount={this.clickCount}
+            id={game.id}
+            key={game.id}
+            image={game.image}
+            />
+          ))}
+        </div>
       </Container>
     );
   }
