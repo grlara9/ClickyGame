@@ -10,6 +10,15 @@ Play the game here [DragonBallZ] (https://ancient-caverns-87467.herokuapp.com/)
 
 
 text: ![alt test](public/images/screenshot.png)
+
+## How to Install and Run
+```bash
+* git clone the repo
+* Run npm install to get dependencies
+* cd into clickyGame
+* Run npm start
+* go to localhost 3000 im web browser
+```
  
 ## Technologies used
 React.js
