@@ -7,6 +7,9 @@ The Clickster is a web game application where users click images of dragon ball 
 ## Heroku deploy
 
 Play the game here [DragonBallZ] (https://ancient-caverns-87467.herokuapp.com/)
+
+
+text: ![alt test](public/images/screenshot.png)
  
 ## Technologies used
 React.js
