@@ -21,7 +21,8 @@ text: ![alt test](public/images/screenshot.png)
 ```
  
 ## Technologies used
-React.js
+* React.js
+* Bootstrap
 
 ## Author 
 Guillermo Lara
