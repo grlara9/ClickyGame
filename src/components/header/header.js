@@ -6,9 +6,10 @@ function Header(props){
             <div className="title col-auto">{props.children}</div>
             <img className="col-auto" src="images/logo2.jpg"/>
             <div className="scores col-auto">
-                Scores: {props.score} Highscore: {props.highscore}
+                Scores: {props.score}
+                Highscore: {props.highscore}
             </div>
-        </div>
+        </div> 
         );
     }
 
