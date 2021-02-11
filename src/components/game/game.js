@@ -8,7 +8,7 @@ function Game(props){
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "auto",
-        height: "15rem",
+        height: "17rem",
         width: "15rem",
         cursor: "pointer"
     }

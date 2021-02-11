@@ -6,7 +6,7 @@
     },
     {
     "id": 2,
-    "image": "./images/cell.png",
+    "image": "https://ami.animecharactersdatabase.com/uploads/1207622142.jpg",
     "count": 0
     },
     {
@@ -48,5 +48,16 @@
         "id": 10,
         "image": "./images/kid.jpg",
         "count": 0
+    },
+    {
+        "id": 11,
+        "image": "https://ami.animecharactersdatabase.com/uploads/chars/7347-572526216.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "image": "https://ami.animecharactersdatabase.com/uploads/chars/7347-795972136.jpg",
+        "count": 0
     }
+
 ]
