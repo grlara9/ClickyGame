@@ -12,11 +12,8 @@
   
   .game > .img-game > img {
     
-    overflow: hidden;
-    text-align: center;
-    background:#6CADDC; 
+    margin-top: 10px;
     width: 100%;
-    height: auto;
-    max-width: 400px;
+    height: 300px;
     
   }
