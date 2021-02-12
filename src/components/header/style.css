@@ -2,19 +2,31 @@
     height: 65px;
     display: flex;
     align-items: center;
+    
     position: sticky;
     top:0;
     z-index: 100;
 }
 
-.title{
-    font-size: 50px;
-    font-weight: bold;
-    float: left;
-    padding: 15px 0 0 10px;
+.dbz__logo{
+width: 250px;
+margin: 0 20px;
+margin-top: 15px;
+object-fit: contain;
 }
 
-.scores{
-    float:right;
-    padding: 15px 10px 0 0;
+.header__title{
+    display: flex;
+    flex:1;
+    align-items: center;
+   
 }
+
+.header__scores{
+    display: flex;
+    flex-direction: column;
+    margin: 0 15px;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+

@@ -8,7 +8,7 @@ function Header(props){
             />
 
             <div className="header__title">
-                <h1>DBZ Clicky Game</h1>
+                <h1>Clicky Game</h1>
             </div>
 
             <div className="header__scores">
